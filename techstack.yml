@@ -1,7 +1,8 @@
 repo_name: KelsonMartins/.github
 report_id: 0cb9c5134b8035b98f5e3bb90071502a
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-03T10:22:30+00:00'
+timestamp: '2024-01-05T08:29:08+00:00'
 requested_by: KelsonMartins
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/KelsonMartins/.github
   detection_source: Repo Metadata
